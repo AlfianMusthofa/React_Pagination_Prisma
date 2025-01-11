@@ -1,2 +1,2 @@
 ## Result
-![Alt Text](ss.jpeg")
+![Alt Text](result.jpeg)
